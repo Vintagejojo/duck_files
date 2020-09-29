@@ -1,0 +1,167 @@
+main.main_grey_background {
+    background-color: #f1f1f1;
+border-top: 2px solid gray;
+}
+
+.gradient_first_column {
+    background-image:
+      linear-gradient(
+        to right,
+        #f0eaea,
+        #f1f1f1 10%
+      );
+}
+
+
+.gradient_mods {
+    background-image:
+      linear-gradient(
+        to top right,
+        #f0eaea,
+        #f1f1f1 60%
+      );
+}
+
+p {
+    color: #2c2c2c;
+}
+.site_logo {
+    float: left;
+    font-size: 35px;
+    color: #c9c9c9;
+    font-family: 'Notable', sans-serif;
+}
+
+.wide_container {
+    height: 40px;
+    width: auto;
+    padding-bottom: 40px;
+    background: #ffffff;
+}
+
+.wide_container_two {
+    margin-top: 60px;
+    margin-bottom: 40px;
+    height: 40px;
+    width: auto;
+    padding-bottom: 40px;
+    background: #ffffff;
+    padding-bottom: 15px;
+}
+
+
+.wide_container_blue {
+    margin-top: 40px;
+    height: 650px;
+    width: auto;
+    background: #0669a4;
+}
+
+.top_bar_tags {
+    float: right;
+    padding: 0px 20px 0px 20px;
+    margin-top: 30px;
+    color: #979797;
+    font-weight: 500;
+    font-size: 18px;
+}
+
+.hero_header {
+    margin-top: 135px;
+    padding-bottom: 30px;
+    color: #c5fdff;
+    font-size: 70px;
+}
+
+.hero_header_subtext {
+    padding-bottom: 30px;
+    color: #c5fdff;
+    font-size: 39px;
+}
+
+.hero_header_paragraph {
+    font-size: 22px;
+    color: #c5fdff;
+}
+
+.hero_image {
+    margin-top: 50px;
+}
+/* .white_background {
+    background: #ffffff;
+} */
+
+/* .gray_background {
+    background: #e9e9e6;
+} */
+
+.first_tag {
+    /* display: inline;
+    font-size: 25px; */
+}
+
+.lite_tags {
+    margin: 15px 0px 0px 70px;
+    display: inline;
+    font-size: 30px;
+    text-align: center;
+    padding: 0px 20px 0 20px;
+    font-family: 'Saira Stencil One', cursive;
+    color: #c9c9c9;
+}
+
+.main_container {
+    margin-top: 40px;
+}
+
+.main_head {
+    text-align: left;
+    font-size: 60px;
+}
+
+.main_text {
+    margin-top: 12px;
+    font-size: 21px;
+}
+
+.main_button {
+    float: right;
+    display: inline-block;
+    padding: 0px 10px;
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: #d9d9d9;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 1px #999;
+  }
+
+.quote_text {
+    margin-top: 35px;
+    font-size: 35px;
+    padding-bottom: 35px;
+    text-align: center;
+
+}
+
+.bottom_header .news_list {
+    padding-bottom: 20px;
+}
+
+
+li.news_list {
+    font-size: 18px;
+}
+
+h3.bottom_header {
+    font-size: 32px;
+    color: #a6a6a6;
+}
+
+.bottom_header_mods {
+    padding: 8px 0px 8px 0px;
+}
